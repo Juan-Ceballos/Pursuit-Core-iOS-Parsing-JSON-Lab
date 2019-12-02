@@ -9,7 +9,7 @@
 import UIKit
 
 class DetailedColorController: UIViewController {
-
+    
     @IBOutlet weak var hexLabel: UILabel!
     @IBOutlet weak var rgbLabel: UILabel!
     
